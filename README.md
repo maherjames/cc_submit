@@ -1,1 +1,1 @@
-# paay
+# CC submit page
